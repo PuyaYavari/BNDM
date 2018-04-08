@@ -1,0 +1,52 @@
+2018-04-08 18:50:39.658437
+
+------------------------------METIN------------------------------
+
+AATABRAAYGDNOAIHJKSDIBNSDA CJKLANMEUNBDJPUYABDN CAK
+
+
+-----------------------------------------------------------------
+
+Aranan kelime:  hjgadhjsgdbam
+
+Ana metinde inceledigimiz alt metin: AATABRAAYGDNO
+Bir sonraki shift miktari:  13
+Bakilan harf:  O
+Hesaplanan d:  0000000000000
+
+13 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: AIHJKSDIBNSDA
+Bir sonraki shift miktari:  13
+Bakilan harf:  A
+Hesaplanan d:  0000000000000
+
+13 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin:  CJKLANMEUNBD
+Bir sonraki shift miktari:  13
+Bakilan harf:  D
+Hesaplanan d:  0000000000000
+
+13 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JPUYABDN CAK
+
+Bir sonraki shift miktari:  13
+Bakilan harf:  
+
+Hesaplanan d:  0000000000000
+
+13 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Kelime bulunamadi
+
+Kodun calima suresi:  0.006657999999999997

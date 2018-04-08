@@ -1,0 +1,3155 @@
+2018-03-20 00:02:02.905015
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  AABB
+
+Ana metinde inceledigimiz alt metin: AATA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  1100
+Bir sonraki shift miktari:  3
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ABAT
+Bir sonraki shift miktari:  4
+Bakilan harf:  T
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: TABA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  1100
+Bir sonraki shift miktari:  3
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  B
+Hesaplanan yeni d:  0000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: AAAB
+Bir sonraki shift miktari:  4
+Bakilan harf:  B
+Hesaplanan d:  0011
+Eski d'nin bir sola kaydirilmis hali:  0110
+Bakilan harf:  A
+Hesaplanan yeni d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  A
+Hesaplanan yeni d:  1000
+Bir sonraki shift miktari:  1
+Eski d'nin bir sola kaydirilmis hali:  0000
+Bakilan harf:  A
+Hesaplanan yeni d:  0000
+
+1 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: AABB
+Bir sonraki shift miktari:  4
+Bakilan harf:  B
+Hesaplanan d:  0011
+Eski d'nin bir sola kaydirilmis hali:  0110
+Bakilan harf:  B
+Hesaplanan yeni d:  0010
+Eski d'nin bir sola kaydirilmis hali:  0100
+Bakilan harf:  A
+Hesaplanan yeni d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  A
+Hesaplanan yeni d:  1000
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  0000
+Bakilan harf:  A
+Hesaplanan yeni d:  0000
+Kelime bulundu, konum: 11
+
+Kodun calima suresi:  0.007314000000000001
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-20 00:02:18.202212
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  AAATTT
+
+Ana metinde inceledigimiz alt metin: AATABA
+Bir sonraki shift miktari:  6
+Bakilan harf:  A
+Hesaplanan d:  111000
+Bir sonraki shift miktari:  5
+Eski d'nin bir sola kaydirilmis hali:  110000
+Bakilan harf:  B
+Hesaplanan yeni d:  000000
+
+5 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATTABA
+Bir sonraki shift miktari:  6
+Bakilan harf:  A
+Hesaplanan d:  111000
+Bir sonraki shift miktari:  5
+Eski d'nin bir sola kaydirilmis hali:  110000
+Bakilan harf:  B
+Hesaplanan yeni d:  000000
+
+5 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: AAABBT
+Bir sonraki shift miktari:  6
+Bakilan harf:  T
+Hesaplanan d:  000111
+Eski d'nin bir sola kaydirilmis hali:  001110
+Bakilan harf:  B
+Hesaplanan yeni d:  000000
+
+6 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: TAATAT
+Bir sonraki shift miktari:  6
+Bakilan harf:  T
+Hesaplanan d:  000111
+Eski d'nin bir sola kaydirilmis hali:  001110
+Bakilan harf:  A
+Hesaplanan yeni d:  001000
+Eski d'nin bir sola kaydirilmis hali:  010000
+Bakilan harf:  T
+Hesaplanan yeni d:  000000
+
+6 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ABTAAA
+Bir sonraki shift miktari:  6
+Bakilan harf:  A
+Hesaplanan d:  111000
+Bir sonraki shift miktari:  5
+Eski d'nin bir sola kaydirilmis hali:  110000
+Bakilan harf:  A
+Hesaplanan yeni d:  110000
+Bir sonraki shift miktari:  4
+Eski d'nin bir sola kaydirilmis hali:  100000
+Bakilan harf:  A
+Hesaplanan yeni d:  100000
+Bir sonraki shift miktari:  3
+Eski d'nin bir sola kaydirilmis hali:  000000
+Bakilan harf:  T
+Hesaplanan yeni d:  000000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: AAATTT
+Bir sonraki shift miktari:  6
+Bakilan harf:  T
+Hesaplanan d:  000111
+Eski d'nin bir sola kaydirilmis hali:  001110
+Bakilan harf:  T
+Hesaplanan yeni d:  000110
+Eski d'nin bir sola kaydirilmis hali:  001100
+Bakilan harf:  T
+Hesaplanan yeni d:  000100
+Eski d'nin bir sola kaydirilmis hali:  001000
+Bakilan harf:  A
+Hesaplanan yeni d:  001000
+Eski d'nin bir sola kaydirilmis hali:  010000
+Bakilan harf:  A
+Hesaplanan yeni d:  010000
+Eski d'nin bir sola kaydirilmis hali:  100000
+Bakilan harf:  A
+Hesaplanan yeni d:  100000
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  000000
+Bakilan harf:  T
+Hesaplanan yeni d:  000000
+Kelime bulundu, konum: 25
+
+Kodun calima suresi:  0.009642999999999999
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 01:29:57.023355
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  AT
+
+Ana metinde inceledigimiz alt metin: AA
+Bir sonraki shift miktari:  2
+Bakilan harf:  A
+Hesaplanan d:  10
+Bir sonraki shift miktari:  1
+Eski d'nin bir sola kaydirilmis hali:  00
+Bakilan harf:  A
+Hesaplanan yeni d:  00
+
+1 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: AT
+Bir sonraki shift miktari:  2
+Bakilan harf:  T
+Hesaplanan d:  01
+Eski d'nin bir sola kaydirilmis hali:  10
+Bakilan harf:  A
+Hesaplanan yeni d:  10
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  00
+Bakilan harf:  A
+Hesaplanan yeni d:  00
+Kelime bulundu, konum: 1
+
+Kodun calima suresi:  0.05655400000000001
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 01:31:56.133943
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  ADD
+
+Ana metinde inceledigimiz alt metin: AAT
+Bir sonraki shift miktari:  3
+Bakilan harf:  T
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ABA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  100
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  B
+Hesaplanan yeni d:  000
+
+2 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATT
+Bir sonraki shift miktari:  3
+Bakilan harf:  T
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ABA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  100
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  B
+Hesaplanan yeni d:  000
+
+2 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: AAA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  100
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  A
+Hesaplanan yeni d:  000
+
+2 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ABB
+Bir sonraki shift miktari:  3
+Bakilan harf:  B
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: TTA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  100
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  T
+Hesaplanan yeni d:  000
+
+2 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: AAT
+Bir sonraki shift miktari:  3
+Bakilan harf:  T
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  100
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  T
+Hesaplanan yeni d:  000
+
+2 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ABT
+Bir sonraki shift miktari:  3
+Bakilan harf:  T
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: AAA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  100
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  A
+Hesaplanan yeni d:  000
+
+2 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATT
+Bir sonraki shift miktari:  3
+Bakilan harf:  T
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: TTT
+Bir sonraki shift miktari:  3
+Bakilan harf:  T
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATB
+Bir sonraki shift miktari:  3
+Bakilan harf:  B
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: TBT
+Bir sonraki shift miktari:  3
+Bakilan harf:  T
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BAA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  100
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  A
+Hesaplanan yeni d:  000
+
+2 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ABA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  100
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  B
+Hesaplanan yeni d:  000
+
+2 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  100
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  T
+Hesaplanan yeni d:  000
+
+2 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ABA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  100
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  B
+Hesaplanan yeni d:  000
+
+2 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  100
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  T
+Hesaplanan yeni d:  000
+
+2 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ABB
+Bir sonraki shift miktari:  3
+Bakilan harf:  B
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATT
+Bir sonraki shift miktari:  3
+Bakilan harf:  T
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: TTB
+Bir sonraki shift miktari:  3
+Bakilan harf:  B
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Kelime bulunamadi
+
+Kodun calima suresi:  0.112708
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:00:36.087686
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  
+
+Ana metinde inceledigimiz alt metin: 
+Bir sonraki shift miktari:  0
+Bakilan harf:  
+
+Hesaplanan d:  
+Kelime bulundu, konum: 0
+
+Kodun calima suresi:  0.0023030000000000134
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:01:01.706282
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  
+
+Ana metinde inceledigimiz alt metin: 
+Bir sonraki shift miktari:  0
+Bakilan harf:  
+
+Hesaplanan d:  
+Kelime bulundu, konum: 0
+
+Kodun calima suresi:  0.0024290000000000006
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:01:59.004421
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  
+
+Ana metinde inceledigimiz alt metin: 
+Bir sonraki shift miktari:  0
+Bakilan harf:  
+
+Hesaplanan d:  
+Kelime bulundu, konum: 0
+
+Kodun calima suresi:  0.0024279999999999996
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:03:22.480684
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  
+
+Ana metinde inceledigimiz alt metin: 
+Bir sonraki shift miktari:  0
+Bakilan harf:  
+
+Hesaplanan d:  
+Kelime bulundu, konum: 0
+
+Kodun calima suresi:  0.0023279999999999967
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:05:11.238571
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  <bound method Entry.get of <tkinter.Entry object .139986250722216>>
+
+2018-03-21 05:05:30.402391
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  
+
+Ana metinde inceledigimiz alt metin: 
+Bir sonraki shift miktari:  0
+Bakilan harf:  
+
+Hesaplanan d:  
+Kelime bulundu, konum: 0
+
+Kodun calima suresi:  0.002252999999999991
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:06:49.316481
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  
+
+Ana metinde inceledigimiz alt metin: 
+Bir sonraki shift miktari:  0
+Bakilan harf:  
+
+Hesaplanan d:  
+Kelime bulundu, konum: 0
+
+Kodun calima suresi:  0.0035400000000000015
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:14:42.913429
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  
+
+Ana metinde inceledigimiz alt metin: 
+Bir sonraki shift miktari:  0
+Bakilan harf:  
+
+Hesaplanan d:  
+Kelime bulundu, konum: 0
+
+Kodun calima suresi:  0.003604999999999997
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:17:15.355987
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  
+
+Ana metinde inceledigimiz alt metin: 
+Bir sonraki shift miktari:  0
+Bakilan harf:  
+
+Hesaplanan d:  
+Kelime bulundu, konum: 0
+
+Kodun calima suresi:  0.0022699999999999942
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:20:39.357024
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  
+
+Ana metinde inceledigimiz alt metin: 
+Bir sonraki shift miktari:  0
+Bakilan harf:  
+
+Hesaplanan d:  
+Kelime bulundu, konum: 0
+
+Kodun calima suresi:  0.002255999999999994
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:23:32.538793
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  
+
+Ana metinde inceledigimiz alt metin: 
+Bir sonraki shift miktari:  0
+Bakilan harf:  
+
+Hesaplanan d:  
+Kelime bulundu, konum: 0
+
+Kodun calima suresi:  0.007088999999999984
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:23:36.252355
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  ATA
+
+Ana metinde inceledigimiz alt metin: AAT
+Bir sonraki shift miktari:  3
+Bakilan harf:  T
+Hesaplanan d:  010
+Eski d'nin bir sola kaydirilmis hali:  100
+Bakilan harf:  A
+Hesaplanan yeni d:  100
+Bir sonraki shift miktari:  1
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  A
+Hesaplanan yeni d:  000
+
+1 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  101
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  010
+Bakilan harf:  T
+Hesaplanan yeni d:  010
+Eski d'nin bir sola kaydirilmis hali:  100
+Bakilan harf:  A
+Hesaplanan yeni d:  100
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  A
+Hesaplanan yeni d:  000
+Kelime bulundu, konum: 1
+
+Kodun calima suresi:  0.002923000000000009
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:23:41.724079
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  ATA
+
+Ana metinde inceledigimiz alt metin: AAT
+Bir sonraki shift miktari:  3
+Bakilan harf:  T
+Hesaplanan d:  010
+Eski d'nin bir sola kaydirilmis hali:  100
+Bakilan harf:  A
+Hesaplanan yeni d:  100
+Bir sonraki shift miktari:  1
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  A
+Hesaplanan yeni d:  000
+
+1 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  101
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  010
+Bakilan harf:  T
+Hesaplanan yeni d:  010
+Eski d'nin bir sola kaydirilmis hali:  100
+Bakilan harf:  A
+Hesaplanan yeni d:  100
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  A
+Hesaplanan yeni d:  000
+Kelime bulundu, konum: 1
+
+Kodun calima suresi:  0.0024769999999999515
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:23:44.196167
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  ATA
+
+Ana metinde inceledigimiz alt metin: AAT
+Bir sonraki shift miktari:  3
+Bakilan harf:  T
+Hesaplanan d:  010
+Eski d'nin bir sola kaydirilmis hali:  100
+Bakilan harf:  A
+Hesaplanan yeni d:  100
+Bir sonraki shift miktari:  1
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  A
+Hesaplanan yeni d:  000
+
+1 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  101
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  010
+Bakilan harf:  T
+Hesaplanan yeni d:  010
+Eski d'nin bir sola kaydirilmis hali:  100
+Bakilan harf:  A
+Hesaplanan yeni d:  100
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  A
+Hesaplanan yeni d:  000
+Kelime bulundu, konum: 1
+
+Kodun calima suresi:  0.0024570000000000425
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:23:47.168954
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  ATA
+
+Ana metinde inceledigimiz alt metin: AAT
+Bir sonraki shift miktari:  3
+Bakilan harf:  T
+Hesaplanan d:  010
+Eski d'nin bir sola kaydirilmis hali:  100
+Bakilan harf:  A
+Hesaplanan yeni d:  100
+Bir sonraki shift miktari:  1
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  A
+Hesaplanan yeni d:  000
+
+1 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  101
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  010
+Bakilan harf:  T
+Hesaplanan yeni d:  010
+Eski d'nin bir sola kaydirilmis hali:  100
+Bakilan harf:  A
+Hesaplanan yeni d:  100
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  A
+Hesaplanan yeni d:  000
+Kelime bulundu, konum: 1
+
+Kodun calima suresi:  0.0026730000000000365
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:23:53.324176
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  ATAA
+
+Ana metinde inceledigimiz alt metin: AATA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  1011
+Bir sonraki shift miktari:  3
+Eski d'nin bir sola kaydirilmis hali:  0110
+Bakilan harf:  T
+Hesaplanan yeni d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  A
+Hesaplanan yeni d:  1000
+Bir sonraki shift miktari:  1
+Eski d'nin bir sola kaydirilmis hali:  0000
+Bakilan harf:  A
+Hesaplanan yeni d:  0000
+
+1 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATAB
+Bir sonraki shift miktari:  4
+Bakilan harf:  B
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATTA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  1011
+Bir sonraki shift miktari:  3
+Eski d'nin bir sola kaydirilmis hali:  0110
+Bakilan harf:  T
+Hesaplanan yeni d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ABAA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  1011
+Bir sonraki shift miktari:  3
+Eski d'nin bir sola kaydirilmis hali:  0110
+Bakilan harf:  A
+Hesaplanan yeni d:  0010
+Eski d'nin bir sola kaydirilmis hali:  0100
+Bakilan harf:  B
+Hesaplanan yeni d:  0000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: AABB
+Bir sonraki shift miktari:  4
+Bakilan harf:  B
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: TTAA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  1011
+Bir sonraki shift miktari:  3
+Eski d'nin bir sola kaydirilmis hali:  0110
+Bakilan harf:  A
+Hesaplanan yeni d:  0010
+Eski d'nin bir sola kaydirilmis hali:  0100
+Bakilan harf:  T
+Hesaplanan yeni d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATAT
+Bir sonraki shift miktari:  4
+Bakilan harf:  T
+Hesaplanan d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  A
+Hesaplanan yeni d:  1000
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  0000
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+2 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATAB
+Bir sonraki shift miktari:  4
+Bakilan harf:  B
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: TAAA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  1011
+Bir sonraki shift miktari:  3
+Eski d'nin bir sola kaydirilmis hali:  0110
+Bakilan harf:  A
+Hesaplanan yeni d:  0010
+Eski d'nin bir sola kaydirilmis hali:  0100
+Bakilan harf:  A
+Hesaplanan yeni d:  0000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATTT
+Bir sonraki shift miktari:  4
+Bakilan harf:  T
+Hesaplanan d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: TTAT
+Bir sonraki shift miktari:  4
+Bakilan harf:  T
+Hesaplanan d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  A
+Hesaplanan yeni d:  1000
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  0000
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+2 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATBT
+Bir sonraki shift miktari:  4
+Bakilan harf:  T
+Hesaplanan d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  B
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BTBA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  1011
+Bir sonraki shift miktari:  3
+Eski d'nin bir sola kaydirilmis hali:  0110
+Bakilan harf:  B
+Hesaplanan yeni d:  0000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: AABA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  1011
+Bir sonraki shift miktari:  3
+Eski d'nin bir sola kaydirilmis hali:  0110
+Bakilan harf:  B
+Hesaplanan yeni d:  0000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATAB
+Bir sonraki shift miktari:  4
+Bakilan harf:  B
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATAB
+Bir sonraki shift miktari:  4
+Bakilan harf:  B
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BATT
+Bir sonraki shift miktari:  4
+Bakilan harf:  T
+Hesaplanan d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: TTBA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  1011
+Bir sonraki shift miktari:  3
+Eski d'nin bir sola kaydirilmis hali:  0110
+Bakilan harf:  B
+Hesaplanan yeni d:  0000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Kelime bulunamadi
+
+Kodun calima suresi:  0.007710999999999912
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:26:20.371179
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  ATA
+
+Ana metinde inceledigimiz alt metin: AAT
+Bir sonraki shift miktari:  3
+Bakilan harf:  T
+Hesaplanan d:  010
+Eski d'nin bir sola kaydirilmis hali:  100
+Bakilan harf:  A
+Hesaplanan yeni d:  100
+Bir sonraki shift miktari:  1
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  A
+Hesaplanan yeni d:  000
+
+1 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  101
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  010
+Bakilan harf:  T
+Hesaplanan yeni d:  010
+Eski d'nin bir sola kaydirilmis hali:  100
+Bakilan harf:  A
+Hesaplanan yeni d:  100
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  A
+Hesaplanan yeni d:  000
+Kelime bulundu, konum: 1
+
+Kodun calima suresi:  0.006520999999999999
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:26:28.589006
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  BABA
+
+Ana metinde inceledigimiz alt metin: AATA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0101
+Eski d'nin bir sola kaydirilmis hali:  1010
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BATT
+Bir sonraki shift miktari:  4
+Bakilan harf:  T
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ABAA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0101
+Eski d'nin bir sola kaydirilmis hali:  1010
+Bakilan harf:  A
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ABBT
+Bir sonraki shift miktari:  4
+Bakilan harf:  T
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: TAAT
+Bir sonraki shift miktari:  4
+Bakilan harf:  T
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATAB
+Bir sonraki shift miktari:  4
+Bakilan harf:  B
+Hesaplanan d:  1010
+Bir sonraki shift miktari:  3
+Eski d'nin bir sola kaydirilmis hali:  0100
+Bakilan harf:  A
+Hesaplanan yeni d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BTAA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0101
+Eski d'nin bir sola kaydirilmis hali:  1010
+Bakilan harf:  A
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ATTT
+Bir sonraki shift miktari:  4
+Bakilan harf:  T
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: TTAT
+Bir sonraki shift miktari:  4
+Bakilan harf:  T
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BTBT
+Bir sonraki shift miktari:  4
+Bakilan harf:  T
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BAAB
+Bir sonraki shift miktari:  4
+Bakilan harf:  B
+Hesaplanan d:  1010
+Bir sonraki shift miktari:  3
+Eski d'nin bir sola kaydirilmis hali:  0100
+Bakilan harf:  A
+Hesaplanan yeni d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  A
+Hesaplanan yeni d:  0000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BATA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0101
+Eski d'nin bir sola kaydirilmis hali:  1010
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BATA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0101
+Eski d'nin bir sola kaydirilmis hali:  1010
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BBAT
+Bir sonraki shift miktari:  4
+Bakilan harf:  T
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: TTTB
+Bir sonraki shift miktari:  4
+Bakilan harf:  B
+Hesaplanan d:  1010
+Bir sonraki shift miktari:  3
+Eski d'nin bir sola kaydirilmis hali:  0100
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Kelime bulunamadi
+
+Kodun calima suresi:  0.007352000000000025
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:27:22.451841
+
+------------------------------METIN------------------------------
+
+AATABATTABAAABBTTAATATABTAAATTTTTATBTBTBAABATABATABBATTTTBA
+
+-----------------------------------------------------------------
+
+Aranan kelime:  
+
+Ana metinde inceledigimiz alt metin: 
+Bir sonraki shift miktari:  0
+Bakilan harf:  
+
+Hesaplanan d:  
+Kelime bulundu, konum: 0
+
+Kodun calima suresi:  0.006409999999999971
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:28:08.476345
+
+------------------------------METIN------------------------------
+
+AATABRAAYGDNOAIHJKSDIBNSDA CJKLANMEUNBDJPUYABDN CAK
+
+-----------------------------------------------------------------
+
+Aranan kelime:  PUYA
+
+Ana metinde inceledigimiz alt metin: AATA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BRAA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  A
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: YGDN
+Bir sonraki shift miktari:  4
+Bakilan harf:  N
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: OAIH
+Bir sonraki shift miktari:  4
+Bakilan harf:  H
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JKSD
+Bir sonraki shift miktari:  4
+Bakilan harf:  D
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: IBNS
+Bir sonraki shift miktari:  4
+Bakilan harf:  S
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: DA C
+Bir sonraki shift miktari:  4
+Bakilan harf:  C
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JKLA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  L
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NMEU
+Bir sonraki shift miktari:  4
+Bakilan harf:  U
+Hesaplanan d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  E
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NBDJ
+Bir sonraki shift miktari:  4
+Bakilan harf:  J
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: PUYA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  Y
+Hesaplanan yeni d:  0010
+Eski d'nin bir sola kaydirilmis hali:  0100
+Bakilan harf:  U
+Hesaplanan yeni d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  P
+Hesaplanan yeni d:  1000
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  0000
+Bakilan harf:  J
+Hesaplanan yeni d:  0000
+Kelime bulundu, konum: 40
+
+Kodun calima suresi:  0.008281999999999956
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:29:18.324802
+
+------------------------------METIN------------------------------
+
+AATABRAAYGDNOAIHJKSDIBNSDA CJKLANMEUNBDJPUYABDN CAK
+
+-----------------------------------------------------------------
+
+Aranan kelime:  PUYA
+
+Ana metinde inceledigimiz alt metin: AATA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BRAA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  A
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: YGDN
+Bir sonraki shift miktari:  4
+Bakilan harf:  N
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: OAIH
+Bir sonraki shift miktari:  4
+Bakilan harf:  H
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JKSD
+Bir sonraki shift miktari:  4
+Bakilan harf:  D
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: IBNS
+Bir sonraki shift miktari:  4
+Bakilan harf:  S
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: DA C
+Bir sonraki shift miktari:  4
+Bakilan harf:  C
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JKLA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  L
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NMEU
+Bir sonraki shift miktari:  4
+Bakilan harf:  U
+Hesaplanan d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  E
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NBDJ
+Bir sonraki shift miktari:  4
+Bakilan harf:  J
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: PUYA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  Y
+Hesaplanan yeni d:  0010
+Eski d'nin bir sola kaydirilmis hali:  0100
+Bakilan harf:  U
+Hesaplanan yeni d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  P
+Hesaplanan yeni d:  1000
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  0000
+Bakilan harf:  J
+Hesaplanan yeni d:  0000
+Kelime bulundu, konum: 40
+
+Kodun calima suresi:  0.009259000000000017
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:31:00.533393
+
+------------------------------METIN------------------------------
+
+AATABRAAYGDNOAIHJKSDIBNSDA CJKLANMEUNBDJPUYABDN CAK
+
+-----------------------------------------------------------------
+
+Aranan kelime:  ASDASDCAS
+
+Ana metinde inceledigimiz alt metin: AATABRAAY
+Bir sonraki shift miktari:  9
+Bakilan harf:  Y
+Hesaplanan d:  000000000
+
+9 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: GDNOAIHJK
+Bir sonraki shift miktari:  9
+Bakilan harf:  K
+Hesaplanan d:  000000000
+
+9 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: SDIBNSDA 
+Bir sonraki shift miktari:  9
+Bakilan harf:   
+Hesaplanan d:  000000000
+
+9 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: CJKLANMEU
+Bir sonraki shift miktari:  9
+Bakilan harf:  U
+Hesaplanan d:  000000000
+
+9 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NBDJPUYAB
+Bir sonraki shift miktari:  9
+Bakilan harf:  B
+Hesaplanan d:  000000000
+
+9 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Kelime bulunamadi
+
+Kodun calima suresi:  0.008118999999999987
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:46:16.664625
+
+------------------------------METIN------------------------------
+
+RETFSDSDTSFSDSDVCSASDAS
+
+-----------------------------------------------------------------
+
+Aranan kelime:  SDS
+
+Ana metinde inceledigimiz alt metin: RET
+Bir sonraki shift miktari:  3
+Bakilan harf:  T
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: FSD
+Bir sonraki shift miktari:  3
+Bakilan harf:  D
+Hesaplanan d:  010
+Eski d'nin bir sola kaydirilmis hali:  100
+Bakilan harf:  S
+Hesaplanan yeni d:  100
+Bir sonraki shift miktari:  1
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  F
+Hesaplanan yeni d:  000
+
+1 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: SDS
+Bir sonraki shift miktari:  3
+Bakilan harf:  S
+Hesaplanan d:  101
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  010
+Bakilan harf:  D
+Hesaplanan yeni d:  010
+Eski d'nin bir sola kaydirilmis hali:  100
+Bakilan harf:  S
+Hesaplanan yeni d:  100
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:  F
+Hesaplanan yeni d:  000
+Kelime bulundu, konum: 4
+
+Kodun calima suresi:  0.005906000000000022
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:46:35.563750
+
+------------------------------METIN------------------------------
+
+AATABRAAYGDNOAIHJKSDIBNSDA CJKLANMEUNBDJPUYABDN CAK
+
+-----------------------------------------------------------------
+
+Aranan kelime:  SDS
+
+Ana metinde inceledigimiz alt metin: AAT
+Bir sonraki shift miktari:  3
+Bakilan harf:  T
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ABR
+Bir sonraki shift miktari:  3
+Bakilan harf:  R
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: AAY
+Bir sonraki shift miktari:  3
+Bakilan harf:  Y
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: GDN
+Bir sonraki shift miktari:  3
+Bakilan harf:  N
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: OAI
+Bir sonraki shift miktari:  3
+Bakilan harf:  I
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: HJK
+Bir sonraki shift miktari:  3
+Bakilan harf:  K
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: SDI
+Bir sonraki shift miktari:  3
+Bakilan harf:  I
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BNS
+Bir sonraki shift miktari:  3
+Bakilan harf:  S
+Hesaplanan d:  101
+Bir sonraki shift miktari:  2
+Eski d'nin bir sola kaydirilmis hali:  010
+Bakilan harf:  N
+Hesaplanan yeni d:  000
+
+2 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: SDA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin:  CJ
+Bir sonraki shift miktari:  3
+Bakilan harf:  J
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: KLA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NME
+Bir sonraki shift miktari:  3
+Bakilan harf:  E
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: UNB
+Bir sonraki shift miktari:  3
+Bakilan harf:  B
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: DJP
+Bir sonraki shift miktari:  3
+Bakilan harf:  P
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: UYA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BDN
+Bir sonraki shift miktari:  3
+Bakilan harf:  N
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin:  CA
+Bir sonraki shift miktari:  3
+Bakilan harf:  A
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Kelime bulunamadi
+
+Kodun calima suresi:  0.005265999999999993
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:46:51.251826
+
+------------------------------METIN------------------------------
+
+AATABRAAYGDNOAIHJKSDIBNSDA CJKLANMEUNBDJPUYABDN CAK
+
+-----------------------------------------------------------------
+
+Aranan kelime:  PUYA
+
+Ana metinde inceledigimiz alt metin: AATA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BRAA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  A
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: YGDN
+Bir sonraki shift miktari:  4
+Bakilan harf:  N
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: OAIH
+Bir sonraki shift miktari:  4
+Bakilan harf:  H
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JKSD
+Bir sonraki shift miktari:  4
+Bakilan harf:  D
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: IBNS
+Bir sonraki shift miktari:  4
+Bakilan harf:  S
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: DA C
+Bir sonraki shift miktari:  4
+Bakilan harf:  C
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JKLA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  L
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NMEU
+Bir sonraki shift miktari:  4
+Bakilan harf:  U
+Hesaplanan d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  E
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NBDJ
+Bir sonraki shift miktari:  4
+Bakilan harf:  J
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: PUYA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  Y
+Hesaplanan yeni d:  0010
+Eski d'nin bir sola kaydirilmis hali:  0100
+Bakilan harf:  U
+Hesaplanan yeni d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  P
+Hesaplanan yeni d:  1000
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  0000
+Bakilan harf:  J
+Hesaplanan yeni d:  0000
+Kelime bulundu, konum: 40
+
+Kodun calima suresi:  0.005161000000000193
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 05:48:49.579259
+
+------------------------------METIN------------------------------
+
+AATABRAAYGDNOAIHJKSDIBNSDA CJKLANMEUNBDJPUYABDN CAK
+
+-----------------------------------------------------------------
+
+Aranan kelime:  PUYA
+
+Ana metinde inceledigimiz alt metin: AATA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BRAA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  A
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: YGDN
+Bir sonraki shift miktari:  4
+Bakilan harf:  N
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: OAIH
+Bir sonraki shift miktari:  4
+Bakilan harf:  H
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JKSD
+Bir sonraki shift miktari:  4
+Bakilan harf:  D
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: IBNS
+Bir sonraki shift miktari:  4
+Bakilan harf:  S
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: DA C
+Bir sonraki shift miktari:  4
+Bakilan harf:  C
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JKLA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  L
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NMEU
+Bir sonraki shift miktari:  4
+Bakilan harf:  U
+Hesaplanan d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  E
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NBDJ
+Bir sonraki shift miktari:  4
+Bakilan harf:  J
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: PUYA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  Y
+Hesaplanan yeni d:  0010
+Eski d'nin bir sola kaydirilmis hali:  0100
+Bakilan harf:  U
+Hesaplanan yeni d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  P
+Hesaplanan yeni d:  1000
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  0000
+Bakilan harf:  J
+Hesaplanan yeni d:  0000
+Kelime bulundu, konum: 40
+
+Kodun calima suresi:  0.011569000000000051
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 11:09:07.278141
+
+------------------------------METIN------------------------------
+
+AATABRAAYGDNOAIHJKSDIBNSDA CJKLANMEUNBDJPUYABDN CAK
+
+-----------------------------------------------------------------
+
+Aranan kelime:  PUYA
+
+Ana metinde inceledigimiz alt metin: AATA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BRAA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  A
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: YGDN
+Bir sonraki shift miktari:  4
+Bakilan harf:  N
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: OAIH
+Bir sonraki shift miktari:  4
+Bakilan harf:  H
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JKSD
+Bir sonraki shift miktari:  4
+Bakilan harf:  D
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: IBNS
+Bir sonraki shift miktari:  4
+Bakilan harf:  S
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: DA C
+Bir sonraki shift miktari:  4
+Bakilan harf:  C
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JKLA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  L
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NMEU
+Bir sonraki shift miktari:  4
+Bakilan harf:  U
+Hesaplanan d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  E
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NBDJ
+Bir sonraki shift miktari:  4
+Bakilan harf:  J
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: PUYA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  Y
+Hesaplanan yeni d:  0010
+Eski d'nin bir sola kaydirilmis hali:  0100
+Bakilan harf:  U
+Hesaplanan yeni d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  P
+Hesaplanan yeni d:  1000
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  0000
+Bakilan harf:  J
+Hesaplanan yeni d:  0000
+Kelime bulundu, konum: 40
+
+Kodun calima suresi:  0.012637999999999983
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 11:09:11.734797
+
+------------------------------METIN------------------------------
+
+AATABRAAYGDNOAIHJKSDIBNSDA CJKLANMEUNBDJPUYABDN CAK
+
+-----------------------------------------------------------------
+
+Aranan kelime:  
+
+Ana metinde inceledigimiz alt metin: 
+Bir sonraki shift miktari:  0
+Bakilan harf:  
+
+Hesaplanan d:  
+Kelime bulundu, konum: 0
+
+Kodun calima suresi:  0.00855499999999998
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 11:09:19.332708
+
+------------------------------METIN------------------------------
+
+AATABRAAYGDNOAIHJKSDIBNSDA CJKLANMEUNBDJPUYABDN CAK
+
+-----------------------------------------------------------------
+
+Aranan kelime:  PUYA
+
+Ana metinde inceledigimiz alt metin: AATA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BRAA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  A
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: YGDN
+Bir sonraki shift miktari:  4
+Bakilan harf:  N
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: OAIH
+Bir sonraki shift miktari:  4
+Bakilan harf:  H
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JKSD
+Bir sonraki shift miktari:  4
+Bakilan harf:  D
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: IBNS
+Bir sonraki shift miktari:  4
+Bakilan harf:  S
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: DA C
+Bir sonraki shift miktari:  4
+Bakilan harf:  C
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JKLA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  L
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NMEU
+Bir sonraki shift miktari:  4
+Bakilan harf:  U
+Hesaplanan d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  E
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NBDJ
+Bir sonraki shift miktari:  4
+Bakilan harf:  J
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: PUYA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  Y
+Hesaplanan yeni d:  0010
+Eski d'nin bir sola kaydirilmis hali:  0100
+Bakilan harf:  U
+Hesaplanan yeni d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  P
+Hesaplanan yeni d:  1000
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  0000
+Bakilan harf:  J
+Hesaplanan yeni d:  0000
+Kelime bulundu, konum: 40
+
+Kodun calima suresi:  0.0025179999999999647
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 11:09:20.301765
+
+------------------------------METIN------------------------------
+
+AATABRAAYGDNOAIHJKSDIBNSDA CJKLANMEUNBDJPUYABDN CAK
+
+-----------------------------------------------------------------
+
+Aranan kelime:  PUYA
+
+Ana metinde inceledigimiz alt metin: AATA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BRAA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  A
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: YGDN
+Bir sonraki shift miktari:  4
+Bakilan harf:  N
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: OAIH
+Bir sonraki shift miktari:  4
+Bakilan harf:  H
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JKSD
+Bir sonraki shift miktari:  4
+Bakilan harf:  D
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: IBNS
+Bir sonraki shift miktari:  4
+Bakilan harf:  S
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: DA C
+Bir sonraki shift miktari:  4
+Bakilan harf:  C
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JKLA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  L
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NMEU
+Bir sonraki shift miktari:  4
+Bakilan harf:  U
+Hesaplanan d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  E
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NBDJ
+Bir sonraki shift miktari:  4
+Bakilan harf:  J
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: PUYA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  Y
+Hesaplanan yeni d:  0010
+Eski d'nin bir sola kaydirilmis hali:  0100
+Bakilan harf:  U
+Hesaplanan yeni d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  P
+Hesaplanan yeni d:  1000
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  0000
+Bakilan harf:  J
+Hesaplanan yeni d:  0000
+Kelime bulundu, konum: 40
+
+Kodun calima suresi:  0.00483100000000003
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 11:09:21.037470
+
+------------------------------METIN------------------------------
+
+AATABRAAYGDNOAIHJKSDIBNSDA CJKLANMEUNBDJPUYABDN CAK
+
+-----------------------------------------------------------------
+
+Aranan kelime:  PUYA
+
+Ana metinde inceledigimiz alt metin: AATA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  T
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BRAA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  A
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: YGDN
+Bir sonraki shift miktari:  4
+Bakilan harf:  N
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: OAIH
+Bir sonraki shift miktari:  4
+Bakilan harf:  H
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JKSD
+Bir sonraki shift miktari:  4
+Bakilan harf:  D
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: IBNS
+Bir sonraki shift miktari:  4
+Bakilan harf:  S
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: DA C
+Bir sonraki shift miktari:  4
+Bakilan harf:  C
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JKLA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  L
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NMEU
+Bir sonraki shift miktari:  4
+Bakilan harf:  U
+Hesaplanan d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  E
+Hesaplanan yeni d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NBDJ
+Bir sonraki shift miktari:  4
+Bakilan harf:  J
+Hesaplanan d:  0000
+
+4 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: PUYA
+Bir sonraki shift miktari:  4
+Bakilan harf:  A
+Hesaplanan d:  0001
+Eski d'nin bir sola kaydirilmis hali:  0010
+Bakilan harf:  Y
+Hesaplanan yeni d:  0010
+Eski d'nin bir sola kaydirilmis hali:  0100
+Bakilan harf:  U
+Hesaplanan yeni d:  0100
+Eski d'nin bir sola kaydirilmis hali:  1000
+Bakilan harf:  P
+Hesaplanan yeni d:  1000
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  0000
+Bakilan harf:  J
+Hesaplanan yeni d:  0000
+Kelime bulundu, konum: 40
+
+Kodun calima suresi:  0.008498999999999979
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-03-21 11:09:26.348063
+
+------------------------------METIN------------------------------
+
+AATABRAAYGDNOAIHJKSDIBNSDA CJKLANMEUNBDJPUYABDN CAK
+
+-----------------------------------------------------------------
+
+Aranan kelime:  CAK
+
+Ana metinde inceledigimiz alt metin: AAT
+Bir sonraki shift miktari:  3
+Bakilan harf:  T
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: ABR
+Bir sonraki shift miktari:  3
+Bakilan harf:  R
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: AAY
+Bir sonraki shift miktari:  3
+Bakilan harf:  Y
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: GDN
+Bir sonraki shift miktari:  3
+Bakilan harf:  N
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: OAI
+Bir sonraki shift miktari:  3
+Bakilan harf:  I
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: HJK
+Bir sonraki shift miktari:  3
+Bakilan harf:  K
+Hesaplanan d:  001
+Eski d'nin bir sola kaydirilmis hali:  010
+Bakilan harf:  J
+Hesaplanan yeni d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: SDI
+Bir sonraki shift miktari:  3
+Bakilan harf:  I
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: BNS
+Bir sonraki shift miktari:  3
+Bakilan harf:  S
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: DA 
+Bir sonraki shift miktari:  3
+Bakilan harf:   
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: CJK
+Bir sonraki shift miktari:  3
+Bakilan harf:  K
+Hesaplanan d:  001
+Eski d'nin bir sola kaydirilmis hali:  010
+Bakilan harf:  J
+Hesaplanan yeni d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: LAN
+Bir sonraki shift miktari:  3
+Bakilan harf:  N
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: MEU
+Bir sonraki shift miktari:  3
+Bakilan harf:  U
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: NBD
+Bir sonraki shift miktari:  3
+Bakilan harf:  D
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JPU
+Bir sonraki shift miktari:  3
+Bakilan harf:  U
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: YAB
+Bir sonraki shift miktari:  3
+Bakilan harf:  B
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: DN 
+Bir sonraki shift miktari:  3
+Bakilan harf:   
+Hesaplanan d:  000
+
+3 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: CAK
+Bir sonraki shift miktari:  3
+Bakilan harf:  K
+Hesaplanan d:  001
+Eski d'nin bir sola kaydirilmis hali:  010
+Bakilan harf:  A
+Hesaplanan yeni d:  010
+Eski d'nin bir sola kaydirilmis hali:  100
+Bakilan harf:  C
+Hesaplanan yeni d:  100
+Bir sonraki shift miktari:  0
+Eski d'nin bir sola kaydirilmis hali:  000
+Bakilan harf:   
+Hesaplanan yeni d:  000
+Kelime bulundu, konum: 48
+
+Kodun calima suresi:  0.002022999999999997
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
+2018-04-08 18:50:39.658382
+
+------------------------------METIN------------------------------
+
+AATABRAAYGDNOAIHJKSDIBNSDA CJKLANMEUNBDJPUYABDN CAK
+
+-----------------------------------------------------------------
+
+Aranan kelime:  hjgadhjsgdbam
+
+Ana metinde inceledigimiz alt metin: AATABRAAYGDNO
+Bir sonraki shift miktari:  13
+Bakilan harf:  O
+Hesaplanan d:  0000000000000
+
+13 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: AIHJKSDIBNSDA
+Bir sonraki shift miktari:  13
+Bakilan harf:  A
+Hesaplanan d:  0000000000000
+
+13 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin:  CJKLANMEUNBD
+Bir sonraki shift miktari:  13
+Bakilan harf:  D
+Hesaplanan d:  0000000000000
+
+13 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Ana metinde inceledigimiz alt metin: JPUYABDN CAK
+
+Bir sonraki shift miktari:  13
+Bakilan harf:  
+
+Hesaplanan d:  0000000000000
+
+13 HARF KAYDIRMA GERCEKLESTI
+
+-----------------------------------------------------------------
+
+Kelime bulunamadi
+
+Kodun calima suresi:  0.006657999999999997
+
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+
+
